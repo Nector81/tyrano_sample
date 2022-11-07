@@ -39,8 +39,37 @@
 
 [cm]
 メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+走って走って、どれくらいの時間が立ったのだろうか。[l][r]
+メロスは気が付くと見知らぬ場所にいた。目の前にはトンネルが見える。[l][r]
 
-【 GOOD END 】[l][cm]
+メロスは...[l][r]
+
+[link target=*tag_sleep_tunnel] →寝る [endlink][r]
+[link target=*tag_run_tunnel] →走る [endlink][r]
+[s]
+
+*tag_run_tunnel
+
+[bg storage=winter.jpg time=500]
+
+[cm]
+トンネルを抜けるとそこは雪国であった。[l][r]
+メロスは死んだように深く眠った。[l][r]
+メロスは何も身に着けていなかったのだ。[l][r]
+
+【 BAD END 】[l][cm]
+
+[jump target=*start]
+
+
+*tag_sleep_tunnel
+[cm]
+[bg storage=bed.jpg time=500]
+メロスは寝ることにした。そうだ、これは悪い夢だ。[l][r]
+目覚まし時計が鳴り響く。[l][r]
+目が覚めると7:45分。早く支度しないと1限の授業に間に合わない。[l][r]
+大学生の目呂須は布団から飛び起きた。[l][r]
+
+【 GOOD END あるいはTo Be Contiuned 】[l][cm]
 
 [jump target=*start]
